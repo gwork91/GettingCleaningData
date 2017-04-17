@@ -1,0 +1,41 @@
+links
+
+Coding :
+https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-besides-the-TopCoder-tutorial
+https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
+
+XGBoost :
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/20662
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
+Domain Classification :
+https://github.com/soodoku/domain_classifier
+https://www.google.com/patents/US8005782
+https://resources.sei.cmu.edu/asset_files/Presentation/2013_017_101_51242.pdf
+https://pdfs.semanticscholar.org/eaae/9e00a07ec1acb96abfd6d330d57a8c589015.pdf
+http://datadrivensecurity.info/blog/posts/2014/Sep/dga-part1/
+https://github.com/ClickSecurity/data_hacking/blob/master/dga_detection/docs/dga_blog.pdf
+
+CS188 : (Artificial Intelligence)
+http://rll.berkeley.edu/deeprlcourse/
+http://ai.berkeley.edu/lecture_videos.html
+https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x#.VNBbsRF4r2M
+
+
+Scala :
+https://bigdatauniversity.com/courses/
+http://101.datascience.community/
+http://bigdatauniversity.com/courses/scala-data-science/
+
+Others :
+https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.sb2oem3z5
+https://medium.com/@aneekdas/the-very-basics-of-reinforcement-learning-154f28a79071#.vjr95o6nz
+(This and its prev part)
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+http://svds.com/learning-imbalanced-classes/
+https://research.google.com/teams/brain/residency/
+http://deliprao.com/archives/187
+https://iamtrask.github.io/2017/03/21/synthetic-gradients/
+
+https://drive.google.com/drive/folders/0B-v9OlIAbC8FZ25fdWtISVNpdjQ
+
